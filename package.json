@@ -13,9 +13,12 @@
     },
     "devDependencies": {
         "aws-sdk": "^2.860.0",
-        "browser-sync": "^2.26.13",
+        "browser-sync": "^3.0.2",
         "prettier": "^2.2.1"
     },
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "serve": "^14.2.1"
+    }
 }
